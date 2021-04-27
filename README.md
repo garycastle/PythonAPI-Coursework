@@ -1,2 +1,0 @@
-# PythonAPI-Coursework
-BCS coursework
